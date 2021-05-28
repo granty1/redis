@@ -3,7 +3,7 @@ package hashtag
 import (
 	"testing"
 
-	"github.com/go-redis/redis/v8/internal/rand"
+	"github.com/granty1/redis/internal/rand"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

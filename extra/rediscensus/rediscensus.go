@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/go-redis/redis/extra/rediscmd/v8"
-	"github.com/go-redis/redis/v8"
+	"github.com/granty1/redis"
 	"go.opencensus.io/trace"
 )
 

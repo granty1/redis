@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-redis/redis/v8"
+	"github.com/granty1/redis"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

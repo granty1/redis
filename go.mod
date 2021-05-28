@@ -5,6 +5,7 @@ go 1.13
 require (
 	github.com/cespare/xxhash/v2 v2.1.1
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f
+	github.com/granty1/redis v8.9.0
 	github.com/onsi/ginkgo v1.15.0
 	github.com/onsi/gomega v1.10.5
 	go.opentelemetry.io/otel v0.20.0
